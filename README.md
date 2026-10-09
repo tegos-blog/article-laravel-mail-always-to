@@ -16,4 +16,4 @@ Turns out, it redirects only the default mailer. `Mail::mailer('billing')` and a
 
 ## 📎 Read Full
 
-[Mail::alwaysTo() Guards One Mailer: The Staging Leak It Leaves Open](https://dev.to/tegos/PLACEHOLDER)
+[Mail::alwaysTo() Guards One Mailer: The Staging Leak It Leaves Open](https://dev.to/tegos/mailalwaysto-guards-one-mailer-the-staging-leak-it-leaves-open-18pc)
